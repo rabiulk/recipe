@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Recipe</title>
+</head>
+<body>
+ 
+  <h1>
+    Twin Sun Toast
+  </h1>
+  <hr/>
+  <figure>
+    <img src="http://www.mrbreakfast.com/images/2346.jpg">
+    <figcaption>® 2017 Robin Davis &amp; <a href="http://www.starwars.com" target="blank">Lucasfilm</a>
+    </figcaption>
+  
+  </figure>
+  
+<p>
+  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  </p> 
+  
+  <h2>
+    Ingredients
+  </h2>
+  <ul>
+    <li>1 wide slice sourdough bread (at least 7" wide)</li>
+    <li> 1 teaspoon butter</li>
+    <li>2 small eggs</li>
+    <li>salt and pepper to taste</li>
+  </ul>
+  
+  <h2>
+    Steps
+  </h2>
+  
+  <ol>
+    <li>step 1</li>
+    <li>step 2</li>
+    <li>step 3</li>
+    <li>step 4</li>
+  </ol>
+  </ol>
+</body>
+</html>
